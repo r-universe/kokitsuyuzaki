@@ -3,3 +3,33 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "iTensor"]
+	path = iTensor
+	url = https://github.com/cran/iTensor
+	shallow = true
+	registered = true
+[submodule "LRBaseDbi"]
+	path = LRBaseDbi
+	url = https://git.bioconductor.org/packages/LRBaseDbi
+	shallow = true
+	registered = true
+[submodule "MeSHDbi"]
+	path = MeSHDbi
+	url = https://git.bioconductor.org/packages/MeSHDbi
+	shallow = true
+	registered = true
+[submodule "metaSeq"]
+	path = metaSeq
+	url = https://git.bioconductor.org/packages/metaSeq
+	shallow = true
+	registered = true
+[submodule "scTensor"]
+	path = scTensor
+	url = https://git.bioconductor.org/packages/scTensor
+	shallow = true
+	registered = true
+[submodule "scTGIF"]
+	path = scTGIF
+	url = https://git.bioconductor.org/packages/scTGIF
+	shallow = true
+	registered = true

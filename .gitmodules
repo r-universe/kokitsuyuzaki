@@ -11,9 +11,9 @@
 [submodule "metaSeq"]
 	path = metaSeq
 	url = https://git.bioconductor.org/packages/metaSeq
-[submodule "scTensor"]
-	path = scTensor
-	url = https://git.bioconductor.org/packages/scTensor
 [submodule "scTGIF"]
 	path = scTGIF
 	url = https://git.bioconductor.org/packages/scTGIF
+[submodule "scTensor"]
+	path = scTensor
+	url = https://git.bioconductor.org/packages/scTensor

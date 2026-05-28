@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "hmmTensor"]
+	path = hmmTensor
+	url = https://github.com/cran/hmmTensor
 [submodule "symTensor"]
 	path = symTensor
 	url = https://github.com/cran/symTensor
